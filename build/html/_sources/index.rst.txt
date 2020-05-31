@@ -1,23 +1,22 @@
-MFL Documentation
-=======================================
-
-
-Under development
-=================
-
-Here is the document for the ongoing project MFL (Mobile Federated Learning).::
-
-    TBU
-
-Guide
-^^^^^
+.. include:: ../README.rst
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 1
+    :caption: Device
 
-   license.rst
-   help
+    device
 
+.. toctree::
+    :maxdepth: 1
+    :caption: License
+
+    license
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Help
+
+    help
 
 Indices and tables
 ==================
