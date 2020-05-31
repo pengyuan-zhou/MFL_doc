@@ -11,6 +11,7 @@ UE
 * As a representative IoT device, smartwatch has the capacity to support sensor data collection for a variety of movements and sports. It also supports the communication with smartphone. 
 
 * OS: Wear OS
+
 |
 |
 |
@@ -27,6 +28,7 @@ Trainer
 
 * We use a smartphone as the edge trainer to collect IoT device data and execute fast training and feedback. It reports the model updates to the cloud for centralised training.
 * OS: Android
+
 |
 |
 |

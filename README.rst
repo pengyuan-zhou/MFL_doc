@@ -53,6 +53,7 @@ Based on the user demands, the framework requires the following functionalities.
   * Efficient and reliable communication with training device (trainer).
   * Efficient and robust database maintenance.
 
+|
 * Trainer:
 
   * Power-aware training trigger.
@@ -61,6 +62,7 @@ Based on the user demands, the framework requires the following functionalities.
   * Efficient and robust abstractive model update report.
   * Efficient communication with the cloud.
 
+| 
 * Cloud:
 
   * Accurate and fast centralised training.
