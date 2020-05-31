@@ -13,12 +13,11 @@ UE
 * OS: Wear OS
 
 |
+
 |
+
 |
-|
-|
-|
-|
+
 Trainer
 -------
 
@@ -30,12 +29,11 @@ Trainer
 * OS: Android
 
 |
+
 |
+
 |
-|
-|
-|
-|
+
 Cloud
 -----
 
