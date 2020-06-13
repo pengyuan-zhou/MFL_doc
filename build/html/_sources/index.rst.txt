@@ -2,9 +2,9 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: Model
+    :caption: System
 
-    model
+    system
 
 .. toctree::
     :maxdepth: 1

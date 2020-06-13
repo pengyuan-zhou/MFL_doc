@@ -12,6 +12,10 @@ Overview
 
 |
 
+* Currently none of the major libs such as TFF, PySyft and Fate support android dev. 
+
+  Therefore we target at developing FL by modifying common TF models and use TF lite for inference on wearable device.
+
 UE
 --
 
