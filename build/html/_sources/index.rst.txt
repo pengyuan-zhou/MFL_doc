@@ -2,6 +2,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: Model
+
+    model
+
+.. toctree::
+    :maxdepth: 1
     :caption: Device
 
     device
