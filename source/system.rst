@@ -12,17 +12,16 @@ Model selection
 ---------------
 
 Currently none of the major libs such as TFF, PySyft and Fate support android dev. 
-Therefore we target at developing FL by modifying common TF models 
-and use TF lite for inference on wearable device.
+Therefore we target at developing FL based on `DL4J <https://deeplearning4j.org/>`_
 
 
-* UE: `TensorFlow Lite <https://www.tensorflow.org/lite/>`_
-
+* UE: `DL4J <https://deeplearning4j.org/>`_
+                        B plan: `TensorFlow Lite <https://www.tensorflow.org/lite/>`_
 |
 
-* Trainer: `TensorFlow <https://www.tensorflow.org/>`_
-                        B plan: `DL4J <https://deeplearning4j.org/>`_
+* Trainer: `DL4J <https://deeplearning4j.org/>`_
+                        B plan: `TensorFlow <https://www.tensorflow.org/>`_
 |
 
-* Cloud: `TensorFlow <https://www.tensorflow.org/>`_
-                        B plan: `DL4J <https://deeplearning4j.org/>`_
+* Cloud: `TDL4J <https://deeplearning4j.org/>`_
+                        B plan: `TensorFlow <https://www.tensorflow.org/>`_
